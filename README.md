@@ -1,2 +1,2 @@
 # tribute
-FreCodeCamp: Task 1
+https://salein.github.io/tribute
