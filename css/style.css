@@ -63,4 +63,6 @@ body {
   a:visited {
     color: #74638f;
   }
-  
+  a:hover {
+      color: blue;
+  }
